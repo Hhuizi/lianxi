@@ -28,7 +28,7 @@ git reset  --hard 版本号 版本还原;
 
 标志着当前的版本;在任何时候都可以还原到当前状态;
 
-
+git push -u origin master 把本地仓库的东西提交到远程仓库的master分支上
 
 
 
